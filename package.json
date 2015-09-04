@@ -1,21 +1,23 @@
 {
   "name": "complement",
-  "version": "1.0.0",
   "description": "A stand-alone version of the common 'complement' or 'not' found in functional libraries",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/NickTomlin/node-complement.git"
   },
-  "author": "Nick Tomlin",
-  "scripts": {
-    "test": "node test.js"
-  },
   "author": "",
+  "scripts": {
+    "test": "node test.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
   "license": "ISC",
   "keywords": [
     "complement",
     "not",
     "functional"
-  ]
+  ],
+  "devDependencies": {
+    "semantic-release": "^4.3.4"
+  }
 }
