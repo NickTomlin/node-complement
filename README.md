@@ -20,8 +20,8 @@ assert(isNotDog('dog') === false);
 Related
 ---
 
-[Underscore contrib's complement](https://github.com/TheNodeILs/lodash-contrib/blob/master/common-js/_.function.combinators.js#L96)
-[Lemonad's not](https://github.com/fogus/lemonad/blob/master/lib/lemonad.js#L98)
+- Underscore contrib's [complement](https://github.com/TheNodeILs/lodash-contrib/blob/master/common-js/_.function.combinators.js#L96)
+- Lemonad's [not](https://github.com/fogus/lemonad/blob/master/lib/lemonad.js#L98)
 
 FAQ
 ---
