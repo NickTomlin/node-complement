@@ -2,7 +2,7 @@ Complement
 ====
 
 [![Build Status](http://img.shields.io/travis/NickTomlin/node-complement/master.svg?style=flat)](https://travis-ci.org/NickTomlin/node-complement)
-![NPM package](https://img.shields.io/npm/v/complement.svg)
+[![NPM package](https://img.shields.io/npm/v/complement.svg)](https://img.shields.io/npm/v/complement.svg)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 A stand-alone version of the common 'complement' or 'not' found in functional libraries
