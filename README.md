@@ -32,6 +32,6 @@ FAQ
 
 Q: Why even is this a module?
 
-a. I wanted to play around with tweaking my publishing process and this was a great excuse to publish something
-b. I wanted this without bringing in a library
-c. I hate `util.js` files littered with things that can be found elsewhere
+- I wanted to play around with tweaking my publishing process and this was a great excuse to publish something
+- I wanted this without bringing in a library
+- I hate `util.js` files littered with things that can be found elsewhere
